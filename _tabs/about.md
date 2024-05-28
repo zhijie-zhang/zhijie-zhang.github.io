@@ -9,3 +9,5 @@ order: 4
 - Linux Kernel
 - Linux Driver
 - Heterogeneous Computing
+- AI Platform Software
+- GPGPU
