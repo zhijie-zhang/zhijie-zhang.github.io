@@ -4,6 +4,7 @@ icon: fas fa-info-circle
 order: 4
 ---
 
+
 #### 伟大的乔布斯
 ![|right|200x200](http://g.hiphotos.baidu.com/baike/pic/item/a08b87d6277f9e2fc11760a11630e924b899f37d.jpg)
 
